@@ -1,5 +1,5 @@
 🚀 Project Title & Tagline
-========================
+=======================
 ### Quantum Pulse Foundation - Growing Trees, Changing Lives
 The Quantum Pulse Foundation is a non-profit organization dedicated to promoting environmental sustainability through tree planting and community engagement. Our mission is to make a positive impact on the planet by inspiring individuals to take action and make a difference.
 
